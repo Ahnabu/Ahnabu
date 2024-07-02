@@ -23,11 +23,11 @@ https://portfolio-next-js-abu-horairas-projects.vercel.app
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
 
-<p align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnabu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnabu&show_icons=true&count_private=true)  
-</p>
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ahnabu&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=Ahnabu&theme=default" />
