@@ -16,5 +16,5 @@ Hi, I'm Syed Md Abu Horaira, a junior React web developer with a passion for cra
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahnabu&show_icons=true&count_private=true)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ahnabu&theme=dark)](https://git.io/streak-stats))  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ahnabu&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
