@@ -53,7 +53,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,git,firebase" />
   </a><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,materialui" /><br>
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,materialui,vite" /><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
   </a>
