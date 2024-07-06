@@ -9,7 +9,7 @@
 
 <p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/horaira.abu.10))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/horaira.abu.10)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sm-abu-horaira)
 [![Gmail](https://img.shields.io/badge/Gmail-%231877F2.svg?logo=Gmail)](mailto:syedmdabuhoraira@gmail.com)
 
