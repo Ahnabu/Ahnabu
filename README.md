@@ -25,7 +25,6 @@
 <li>🎓 I’m currently studying on <strong>Zoology</strong> in Dhaka College.</li>
       <li>🤔 I’m looking for a <strong>Intern/Job</strong>.</li>
       <li>💼 I have experience working on several projects</li>
-    
       <li>📚 I'm passionate about continuous learning and staying updated with the latest technologies.</li>
     </ul>
   </div>
