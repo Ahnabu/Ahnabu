@@ -28,7 +28,7 @@
       <li>📚 I'm passionate about continuous learning and staying updated with the latest technologies.</li>
     </ul>
   </div>
-  <div style='max-width: 400px; align-items: center'>
+  <div align-items: center'>
    <a href="https://app.daily.dev/abuhoraira"><img src="https://api.daily.dev/devcards/v2/8xldmwEVvXANPX2vPldTS.png?r=ouf" width="356" alt="Abu Horaira's Dev Card"/></a>
   </div>
 </div>
