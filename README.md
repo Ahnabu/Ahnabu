@@ -35,7 +35,7 @@
 
 ## 📈 Current Stats
 
-<p style="align-items: center">
+<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ahnabu&theme=blue-green&border_radius=5&card_width=500&border=230F97&ring=230F97" alt="GitHub Streak" /></a>
   <div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items: center">
   
